@@ -149,7 +149,7 @@ Detailed event information including mela description, prasanga details, venue, 
 
 <p align="center">
   <img src="Images/event_detail.jpg" width="300"/>
-  <img src="Images/event_detail2.jpg" width="300"/>
+  <img src="Images/event_detail3.jpg" width="300"/>
 </p>
 
 ## 🪧 Invitation Proof
@@ -196,7 +196,10 @@ Dedicated artist encyclopedia section showcasing veshas, performance styles, and
 
 Detailed artist showcase pages explaining vesha importance, artist history, and performance uniqueness.
 
-![Artist Showcase](Images/artist_showcase.png)
+<p align="center">
+  <img src="Images/artist.jpg" width="300"/>
+  <img src="Images/vesha_details.jpg" width="300"/>
+</p>
 
 ---
 
