@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color app_window_background
+drawable arjuna_vesha
+drawable bhagavata_vesha
+drawable bheema_vesha
+drawable duryodhana_vesha
+drawable ic_notification
+drawable kattige_vesha
+drawable nagakanya_vesha
+drawable narasimha_vesha
+drawable rakshasa_vesha
+drawable ravana_vesha
+drawable stree_vesha
+drawable yakshagana_slide_1
+drawable yakshagana_slide_2
+drawable yakshagana_slide_3
+drawable yakshagana_slide_4
+drawable yakshagana_slide_5
+drawable yakshagana_slide_6
+drawable yakshagana_slide_7
+raw radio_readme
+string app_name
+style Theme.YakshaganaLoka
+xml file_paths

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_yakshagana_slide_3.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/yakshagana_slide_3.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_bheema_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/bheema_vesha.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_ic_notification.xml.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_narasimha_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/narasimha_vesha.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_arjuna_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/arjuna_vesha.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_yakshagana_slide_1.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/yakshagana_slide_1.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_ravana_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/ravana_vesha.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_yakshagana_slide_2.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/yakshagana_slide_2.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_kattige_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/kattige_vesha.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_yakshagana_slide_7.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/yakshagana_slide_7.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_duryodhana_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/duryodhana_vesha.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_stree_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/stree_vesha.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_yakshagana_slide_6.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/yakshagana_slide_6.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/raw_radio_readme.txt.flat",
+        "source": "com.yakshagana.loka.app-main-95:/raw/radio_readme.txt"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_yakshagana_slide_5.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/yakshagana_slide_5.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_bhagavata_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/bhagavata_vesha.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_nagakanya_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/nagakanya_vesha.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_yakshagana_slide_4.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/yakshagana_slide_4.jpg"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/xml_file_paths.xml.flat",
+        "source": "com.yakshagana.loka.app-main-95:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.yakshagana.loka.app-debug-93:/drawable_rakshasa_vesha.jpg.flat",
+        "source": "com.yakshagana.loka.app-main-95:/drawable/rakshasa_vesha.jpg"
+    }
+]
