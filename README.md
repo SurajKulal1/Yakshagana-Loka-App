@@ -151,13 +151,9 @@ Detailed event information including mela description, prasanga details, venue, 
   <img src="Images/event_detail.jpg" width="300"/>
 </p>
 
----
-
-## 📍 Open in Map
-
-Integrated map navigation support allowing users to directly open event locations in Google Maps.
-
-![Map Support](Images/open_map.png)
+<p align="center">
+  <img src="Images/event_detail2.jpg" width="300"/>
+</p>
 
 ---
 
@@ -165,7 +161,9 @@ Integrated map navigation support allowing users to directly open event location
 
 Official Yakshagana invitation posters and proof section attached to each event.
 
-![Invitation Proof](Images/invitation_proof.png)
+<p align="center">
+  <img src="Images/invite_proof.jpg" width="300"/>
+</p>
 
 ---
 
@@ -211,7 +209,9 @@ Detailed artist showcase pages explaining vesha importance, artist history, and 
 
 Audio streaming interface containing Yakshagana songs, devotional tracks, and dialogue collections with playback controls.
 
-![Yakshagana Radio](Images/radio_screen.png)
+<p align="center">
+  <img src="Images/radio_screen.jpg" width="300"/>
+</p>
 
 ---
 
