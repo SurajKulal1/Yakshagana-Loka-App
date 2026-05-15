@@ -185,7 +185,9 @@ Manager interface used to add mela details, venue information, contact details, 
 
 Dedicated artist encyclopedia section showcasing veshas, performance styles, and role-based search functionality.
 
-![Artist Encyclopedia](Images/artist_Enclopedia.jpg)
+<p align="center">
+  <img src="Images/artist_Enclopedia.jpg" width="300"/>
+</p>
 
 ---
 
