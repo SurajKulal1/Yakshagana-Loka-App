@@ -137,7 +137,9 @@ Yakshagana-Loka/
 
 Displays today’s and upcoming Yakshagana performances with mela information, venue, timing, and event posters.
 
-![Tonight Shows](Images/tonight_shows.png)
+<p align="center">
+  <img src="Images/today_show.jpg" width="300"/>
+</p>
 
 ---
 
@@ -145,7 +147,9 @@ Displays today’s and upcoming Yakshagana performances with mela information, v
 
 Detailed event information including mela description, prasanga details, venue, date & time, and contact information.
 
-![Event Details](Images/event_details.png)
+<p align="center">
+  <img src="Images/event_detail.jpg" width="300"/>
+</p>
 
 ---
 
@@ -169,7 +173,9 @@ Official Yakshagana invitation posters and proof section attached to each event.
 
 Interactive mela calendar with highlighted performance dates and monthly schedule tracking.
 
-![Mela Calendar](Images/mela_calendar.png)
+<p align="center">
+  <img src="Images/calender_screen.jpg" width="300"/>
+</p>
 
 ---
 
@@ -177,7 +183,9 @@ Interactive mela calendar with highlighted performance dates and monthly schedul
 
 Manager interface used to add mela details, venue information, contact details, and event descriptions.
 
-![Event Form](Images/event_form.png)
+<p align="center">
+  <img src="Images/event_add.jpg" width="300"/>
+</p>
 
 ---
 
@@ -203,7 +211,7 @@ Detailed artist showcase pages explaining vesha importance, artist history, and 
 
 Audio streaming interface containing Yakshagana songs, devotional tracks, and dialogue collections with playback controls.
 
-![Yakshagana Radio](Images/yakshagana_radio.png)
+![Yakshagana Radio](Images/radio_screen.png)
 
 ---
 
