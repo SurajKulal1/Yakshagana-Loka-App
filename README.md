@@ -149,13 +149,8 @@ Detailed event information including mela description, prasanga details, venue, 
 
 <p align="center">
   <img src="Images/event_detail.jpg" width="300"/>
-</p>
-
-<p align="center">
   <img src="Images/event_detail2.jpg" width="300"/>
 </p>
-
----
 
 ## 🪧 Invitation Proof
 
